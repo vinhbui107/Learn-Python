@@ -1,2 +1,2 @@
 # Learn-Python
-Small projects built with Python
+Small projects built using Python
